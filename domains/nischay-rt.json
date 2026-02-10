@@ -4,6 +4,7 @@
     "email": "nischayreddy.t@gmail.com"
   },
   "records": {
-    "CNAME": "nischay-portfolio.vercel.app"
+    "CNAME": "nischay-portfolio.vercel.app",
+    "TXT": "vc-domain-verify=nischay-rt.is-a.dev,63b85aedd1f12f4ae5f8"
   }
 }
